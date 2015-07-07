@@ -142,6 +142,9 @@ class Manager
      */
     public function start()
     {
+        if(php_sapi_name==='cli'){
+            return true;
+        }
         return session_start();
     }
 
