@@ -3,7 +3,7 @@
     "type": "aura-package",
     "description": "Minor tweak for http://auraphp.github.com/Aura.Session to handle cli",
     "keywords": [ "session", "flash message", "csrf" ],
-    "homepage": "http://auraphp.github.com/Aura.Session",
+    "homepage": "https://github.com/buimatic/Aura.Session",
     "license": "BSD-2-Clause",
     "authors": [
         {
