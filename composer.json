@@ -1,7 +1,7 @@
 {
-    "name": "aura/session",
+    "name": "buimatic/session",
     "type": "library",
-    "description": "Provides session management functionality, including lazy session starting, session segments, next-request-only (\"flash\") values, and CSRF tools.",
+    "description": "Based on aura/session",
     "keywords": [
         "session",
         "sessions",
@@ -9,7 +9,7 @@
         "flash message",
         "csrf"
     ],
-    "homepage": "https://github.com/auraphp/Aura.Session",
+    "homepage": "https://github.com/buimatic/Aura.Session",
     "license": "BSD-2-Clause",
     "authors": [
         {
